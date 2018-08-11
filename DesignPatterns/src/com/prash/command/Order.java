@@ -5,4 +5,5 @@ package com.prash.command;
 public interface Order {
         //one more method
 	void execute();
+	//void test();
 }
