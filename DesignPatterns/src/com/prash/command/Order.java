@@ -1,5 +1,6 @@
 package com.prash.command;
-//interface
+//interface 
+//declared
 public interface Order {
 
 	void execute();
